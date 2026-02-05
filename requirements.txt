@@ -1,0 +1,8 @@
+langchain
+langchain-community
+chromadb
+networkx
+sentence-transformers
+numpy
+pypdf
+tf-keras

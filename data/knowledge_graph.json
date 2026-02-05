@@ -1,0 +1,134 @@
+{
+    "relationships": [
+        {
+            "source": "ABS Light",
+            "target": "Fuse Box",
+            "relation": "checked_at"
+        },
+        {
+            "source": "Fuse Box",
+            "target": "Fuse #42",
+            "relation": "contains"
+        },
+        {
+            "source": "Fuse #42",
+            "target": "ABS Control Module",
+            "relation": "protects"
+        },
+        {
+            "source": "Engine Vibrating",
+            "target": "Engine Mounts",
+            "relation": "caused_by"
+        },
+        {
+            "source": "Engine Vibrating",
+            "target": "Spark Plugs",
+            "relation": "caused_by"
+        },
+        {
+            "source": "Red Battery Icon",
+            "target": "Alternator",
+            "relation": "indicates_failure_of"
+        },
+        {
+            "source": "Alternator",
+            "target": "12V Battery",
+            "relation": "charges"
+        },
+        {
+            "source": "Squeaking Brakes",
+            "target": "Brake Pads",
+            "relation": "caused_by_worn"
+        },
+        {
+            "source": "Brake Pads",
+            "target": "Brake Wear Sensor",
+            "relation": "monitored_by"
+        },
+        {
+            "source": "Brake Wear Sensor",
+            "target": "Instrument Cluster",
+            "relation": "signals_alert_to"
+        },
+        {
+            "source": "Mercedes E-Class",
+            "target": "Dual-Circuit Braking System",
+            "relation": "equipped_with"
+        },
+        {
+            "source": "Vibration at High Speed",
+            "target": "Wheel Alignment",
+            "relation": "caused_by_poor"
+        },
+        {
+            "source": "Vibration at High Speed",
+            "target": "Tire Balance",
+            "relation": "caused_by_poor"
+        },
+        {
+            "source": "Mercedes E-Class",
+            "target": "MBUX Infotainment",
+            "relation": "features"
+        },
+        {
+            "source": "MBUX Infotainment",
+            "target": "Voice Control",
+            "relation": "includes"
+        },
+        {
+            "source": "MBUX Infotainment",
+            "target": "Touchscreen Display",
+            "relation": "controlled_by"
+        },
+        {
+            "source": "Black Screen",
+            "target": "MBUX Infotainment",
+            "relation": "indicates_failure_of"
+        },
+        {
+            "source": "SOS Button",
+            "target": "Emergency Call System",
+            "relation": "activates"
+        },
+        {
+            "source": "Engine Does Not Start",
+            "target": "Keyless-Go Key",
+            "relation": "caused_by_undetected"
+        },
+        {
+            "source": "Keyless-Go Key",
+            "target": "Key Battery",
+            "relation": "powered_by"
+        },
+        {
+            "source": "AdBlue Warning",
+            "target": "AdBlue Tank",
+            "relation": "indicates_low_level"
+        },
+        {
+            "source": "AdBlue Tank",
+            "target": "Diesel Exhaust Fluid",
+            "relation": "contains"
+        },
+        {
+            "source": "Eco Start/Stop Not Working",
+            "target": "12V Battery",
+            "relation": "caused_by_low_charge"
+        },
+        {
+            "source": "Eco Start/Stop Not Working",
+            "target": "Sport Mode",
+            "relation": "disabled_by"
+        },
+        {
+            "source": "Active Brake Assist Warning",
+            "target": "Radar Sensors",
+            "relation": "caused_by_dirty"
+        },
+        {
+            "source": "Radar Sensors",
+            "target": "Front Bumper",
+            "relation": "located_at"
+        }
+    ]
+}

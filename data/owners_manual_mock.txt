@@ -1,0 +1,30 @@
+Overview of the Braking System
+The vehicle is equipped with a dual-circuit hydraulic braking system.
+If the ABS light is on, it indicates a malfunction in the Anti-Lock Braking System.
+Common causes for ABS warning include a blown fuse, a defective wheel speed sensor, or the generic ABS control module failure.
+
+Fuses and Relays
+The fuse box is located in the engine compartment on the driver's side.
+Fuse #42 protects the ABS Control Module.
+Fuse #10 basic radio functionality.
+Relay R3 controls the starter motor.
+
+Engine Troubleshooting
+If the engine vibrates excessively, check the engine mounts and spark plugs.
+A misfire in Cylinder 1 can be caused by a faulty coil pack or spark plug.
+Use only approved engine oil MB-Approval 229.5.
+
+Battery Information
+The 12V battery is located in the trunk under the floor panel.
+If the red battery icon appears, the alternator may not be charging the battery.
+Ensure battery terminals are clean and tight.
+
+Brake System Maintenance
+The brake pads are equipped with electrical wear sensors.
+When the pads reach their wear limit, a message appears on the Instrument Cluster.
+Squeaking noises during braking often indicate that the pads are worn down or dirty.
+For the Mercedes E-Class, use only OEM Brake Pads Part# A-000-420-1234.
+
+Tire and Wheel Care
+Vibration steering wheel at high speeds (above 80 km/h) often points to unbalanced tires or poor wheel alignment.
+Check tire pressures monthly. Recommended pressure is listed on the fuel filler flap.
