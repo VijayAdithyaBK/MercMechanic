@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project Specific
+chroma_db/
+data/*.gpickle
+
+# OS
+.DS_Store
+Thumbs.db
