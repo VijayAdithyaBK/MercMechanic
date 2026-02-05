@@ -70,7 +70,7 @@ graph TD
     subgraph "Local Inference"
         VectorDB & Graph --> Context[Fused Context]
         Context --> Prompt[Expert Prompt]
-        Prompt --> LLM[Ollama (TinyLlama)]
+        Prompt --> LLM["Ollama TinyLlama)"]
     end
     
     LLM -->|Diagnostic Report| User
